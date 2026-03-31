@@ -1,0 +1,9 @@
+# Git Ignore Patterns
+
+# Logs
+logs/
+*.log
+
+# Node Modules
+node_modules/
+

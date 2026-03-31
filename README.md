@@ -1,2 +1,13 @@
-# fast-ts-player
-High-performance IPTV multi-protocol TS player with IGMP multicast support
+# Fast TS Player
+
+## Complete Project Documentation
+
+### Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+### Quick Start
+
+### Architecture
+
